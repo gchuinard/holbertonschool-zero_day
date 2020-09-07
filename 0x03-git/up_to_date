@@ -1,0 +1,7 @@
+git init
+git branch
+git add
+git push
+git checkout
+git commit
+git remote
